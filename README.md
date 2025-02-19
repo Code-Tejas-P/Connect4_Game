@@ -36,6 +36,11 @@
 4. Game ends in draw if board fills completely
 
 ---
+## 📸 Screenshot
+
+![image](https://github.com/user-attachments/assets/2083a252-aeb9-4a91-b52f-c4846b7cecbf)
+
+---
 
 This README.md providing an overview, usage instructions. Let me know if you want any changes! 🚀
 
